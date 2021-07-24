@@ -9,6 +9,10 @@ const routes = [
     path: '/pugs',
   },
   {
+    label: 'Store',
+    path: '/store',
+  },
+  {
     label: 'Contact',
     path: '/contact',
   },
