@@ -1,3 +1,7 @@
+##
+
+For recruitment purposes of Test Analysts, I have developed a Simple React website, which contains bugs and usability constraints, some obvious, some a little more taxing.
+
 ## Dependencies
 
 Tested with: [node](https://nodejs.org/) >= v12 and optional [nvm](https://github.com/nvm-sh/nvm#installing-and-updating) for managing node versions.
