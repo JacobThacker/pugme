@@ -24,7 +24,7 @@ const SideBar = () => (
       </p>
       <ul className="actions">
         <li>
-          {!window.location.pathname.includes('/contact') ? <Link to="/contact" className="button">Contact</Link> : <Link to="/" className="button">Home</Link>}
+          {!window.location.pathname.includes('/contact') ? <Link to="/contacts" className="button">Contact</Link> : <Link to="/" className="button">Home</Link>}
         </li>
       </ul>
     </section>

@@ -14,7 +14,7 @@ const Index = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/">PugMe.co.nz, we make dreams come true. </Link></h2>
-          <p>
+          <p style={{ color: '#fafab6' }}>
             We’re a local, boutique Website that focuses on
             creating a wonderful environment for people to learn about Pugs.
           </p>

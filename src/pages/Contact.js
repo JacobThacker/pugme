@@ -20,13 +20,13 @@ const Contact = () => (
         <p>At Pug.co.nz quality is important to us.
         </p>
         <p>
-          See something you don&apos;t agree with?
+          See something you don&apos;&apos;t agree with?
         </p>
         <p>
           Note is down and let us know!
         </p>
         <EmailLink />
-        <p>(0800) 123 4567</p>
+        <p>(TODO:// insert Company Phone Number)</p>
       </div>
       <ContactIcons />
     </article>

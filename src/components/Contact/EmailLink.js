@@ -10,7 +10,7 @@ const validateText = (text) => {
 
 const messages = [
   'Help',
-  'NotaCat',
+  '{ERROR EMAIL ADDRESS NOT FOUND}',
 ];
 
 const useInterval = (callback, delay) => {

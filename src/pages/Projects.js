@@ -15,10 +15,10 @@ const Projects = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/projects">Pugs&apos;s</Link></h2>
-          <p style={{ color: '#DED8D7' }}>
+          <p style={{ color: '#fafab6' }}>
             A selection of pugs
           </p>
-          <p style={{ color: '#DED8D7' }}>
+          <p style={{ color: '#fafab6' }}>
             Do you have a pug you want to post, if so, let us know, who knows
             you might even make it to the fr0nt page.
           </p>
