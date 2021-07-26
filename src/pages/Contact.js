@@ -25,6 +25,14 @@ const Contact = () => (
         <p>
           Note is down and let us know!
         </p>
+        <p>
+          <ul className="actions">
+            <form>
+              <input type="text" name="name" />
+              <input type="submit" value="Submit" />
+            </form>
+          </ul>
+        </p>
         <EmailLink />
         <p>(TODO:// insert Company Phone Number)</p>
       </div>

@@ -13,7 +13,7 @@ const SideBar = () => (
       </Link>
       <header>
         <h3>Welcome to PugMe.co.nz</h3>
-        <p>New Zealands Premier Pug Website</p>
+        <p>New Zealands Premier Bug Website</p>
       </header>
     </section>
 
@@ -25,6 +25,11 @@ const SideBar = () => (
       <ul className="actions">
         <li>
           {!window.location.pathname.includes('/contact') ? <Link to="/contacts" className="button">Contact</Link> : <Link to="/" className="button">Home</Link>}
+        </li>
+      </ul>
+      <ul className="actions">
+        <li>
+          {!window.location.pathname.includes('/upload') ? <Link to="/upload" className="button">Upload</Link> : <Link to="/upload" className="button">Home</Link>}
         </li>
       </ul>
     </section>
